@@ -1,5 +1,3 @@
-# If your looking to Commercialize an Open Source project, we can help.
-
 **Computrol** is a full service systems integrator with expertise in manufacturing automation. We can design and implement custom solutions to match your company’s needs. Our portfolio of services include:
 
 - Electrical Engineering and Design
@@ -19,4 +17,5 @@
 - Training
 - 24/7 Support
 
+# If your looking to commercialize an Open Source project, we can help.
 
