@@ -1,3 +1,5 @@
+![Computrol USA](/docs/images/ComputrolBanner.jpg)
+
 **Computrol** is a full service systems integrator with expertise in manufacturing automation. We can design and implement custom solutions to match your company’s needs. Our portfolio of services include:
 
 - Electrical Engineering and Design
