@@ -19,5 +19,5 @@
 - Training
 - 24/7 Support
 
-# If your looking to commercialize an Open Source project, we can help.
+# If you're looking to commercialize an Open Source project, we can help.
 
